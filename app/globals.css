@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --bg-color: #1e1e2e;
+  --card-bg: #313244;
+  --card-hover: #45475a;
+  --text-primary: #cdd6f4;
+  --text-secondary: #a6adc8;
+  --accent-color: #cba6f7;
+  /* Mauve Default */
+  --accent-secondary: #89b4fa;
+  --success-color: #a6e3a1;
+  --danger-color: #f38ba8;
+
+  --font-main: 'Plus Jakarta Sans', sans-serif;
+}
+
+[data-theme="blue"] {
+  --accent-color: #89b4fa;
+  --accent-secondary: #cba6f7;
+}
+
+[data-theme="green"] {
+  --accent-color: #a6e3a1;
+  --accent-secondary: #89b4fa;
+}
+
+[data-theme="peach"] {
+  --accent-color: #fab387;
+  --accent-secondary: #f9e2af;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  /* font-family is handled by Next/Font in layout.tsx */
+  transition: background-color 0.3s;
+}
+
+@layer components {
+  .bento-box {
+    @apply bg-[var(--card-bg)] rounded-[20px] p-6 shadow-lg transition-all duration-200 flex flex-col;
+  }
+
+  .bento-box:hover {
+    @apply transform -translate-y-[5px] bg-[var(--card-hover)];
+  }
+
+  .btn-primary {
+    @apply bg-[var(--accent-color)] text-[var(--bg-color)] px-4 py-2 rounded-xl font-semibold hover:opacity-90 transition-opacity;
+  }
+
+  .btn-secondary {
+    @apply border-2 border-[var(--text-secondary)] text-[var(--text-primary)] px-4 py-2 rounded-xl font-semibold hover:bg-[var(--text-secondary)] hover:text-[var(--bg-color)] transition-all;
+  }
+}
